@@ -32,5 +32,5 @@
   }
 
   .btn-primary {
-    @include buttonStyles($primary, $primary-hover, $white, $secondary, $secondary-text, $pixel-15, $pixel-18, $pixel-20, transparent);
+    @include buttonStyles($primary, $primary-hover, $white, $secondary, $secondary-text, $pixel-15, $pixel-15, $pixel-15, transparent);
   }
